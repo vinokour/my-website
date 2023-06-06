@@ -8,8 +8,8 @@ export default function aboutbar() {
         <p className="  text-yellow-300">Ann Arbor</p></p>
         <p className="flex flex-col gap-5"> Watched over
         <p className=" text-blue-800">300+ films</p></p>
-        <p className="flex flex-col gap-5">Loves to
-        <p className=" text-blue-800">Code & Learn </p></p>
+        <p className="flex flex-col gap-5">Love to
+        <p className=" text-yellow-300">Code & Learn </p></p>
         <p className="flex flex-col gap-5">Working on
         <p className=" text-blue-800 ">Project KEVIN</p></p>
         </div>
