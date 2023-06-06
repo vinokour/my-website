@@ -1,6 +1,6 @@
 export default function aboutbar() {
     return (
-    <div className="flex flex-row text-xl font-mono items-center  space-x-20 ml-20 justify-between  py-10 gap-20 bg-blue-400">
+    <div className="flex flex-row text-xl font-mono items-center   ml-20 justify-between  py-3 gap-20 bg-blue-400">
   
         <p className="flex flex-col gap-5"> From
         <p className="  text-blue-800">Los Angeles</p></p>

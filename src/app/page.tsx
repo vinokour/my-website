@@ -7,14 +7,13 @@ export default function Home() {
     <div className="  w-full h-[100vh]">
       <Navbar></Navbar>
       <div className="flex flex-col w-full h-[50vh] bg-slate-800 ">
-        <div className="flex flex-row justify-center w-full py-10 mr-20 mt-10 text-black ">
-          <div className="flex flex-col w-[50%] mr-10 h-[50%]">
+        <div className="flex bg-slate-800 flex-row justify-center w-full py-10 mr-20 mt-10 text-black ">
+          <div className="bg-slate-800 flex flex-col w-[50%] mr-10 h-[50%]">
             <Picture></Picture>
-            
           </div>
         </div>
-        <div className="flex flex-row  bg-blue-400 w-full h-full py-15 mt-20">
-          <Aboutbar></Aboutbar>
+        <div className="flex flex-row  bg-slate-800 w-full h-full py-15 ">
+          {/* <Aboutbar></Aboutbar> */}
         </div>
         <div className="flex   flex-col  bg-white pt-10">Nick</div>
       </div>
