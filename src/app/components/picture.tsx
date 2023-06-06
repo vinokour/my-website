@@ -4,11 +4,11 @@ export default function Picture() {
             <div className="flex flex-col">
             <p className="text-lg font-mono py-3  text-blue-400"> Hi, I'm </p>
             <p className="text-3xl">NICHOLAS VINOKOUR</p>
-            <p className=" text-sm text-blue-400 w-full">Rising Junior & Computer Sceince @ <img src="/UofM.png" className="w-10 h-10 inline-block" />
+            <p className=" text-xs text-blue-400 py-3">Rising Junior & Computer Sceince @ <img src="/UofM.png" className="w-12 h-10 inline-block" />
             </p>
             <p className=" text-sm py-3 leading-loose"> I am a rising junior at the University of Michigan majoring in 
             Computer Science and minoring in Business. I'm passoniate about new technologies and how they will impact and chnage the world. I am interested in 
-            Sports analytics, entertainment industry, artificial intelligence, and of course watching Ohio State lose to Michigan in about anything
+            Sports analytics, entertainmet industry, artificial intelligence, and of course watching Ohio State lose to Michigan in about anything
              </p>
             </div > 
             <div className="flex flex-col">

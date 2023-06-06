@@ -12,10 +12,10 @@ export default function Home() {
             <Picture></Picture>
           </div>
         </div>
-        <div className="flex flex-row bg-blue-400 w-full h-full py-15 mt-20">
+        <div className="flex flex-row  bg-blue-400 w-full h-full py-15 mt-20">
           <Aboutbar></Aboutbar>
         </div>
-        <div className="flex flex-col bg-white pt-10">Nick</div>
+        <div className="flex   flex-col  bg-white pt-10">Nick</div>
       </div>
     </div>
   );
