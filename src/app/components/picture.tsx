@@ -13,11 +13,11 @@ export default function Picture() {
             <img src="/Photo.jpg" className="rounded-md drop-shadow-lg w-[150vw] h-60 ml-20" />
             </div> */}
 
-          <div>  <p className="flex text-lg  text-gray-400 py-5 leading-loose"> I am a rising junior at the University of Michigan majoring in 
+        <p className="flex text-lg  text-gray-400 py-5 leading-loose"> I am a rising junior at the University of Michigan majoring in 
         Computer Science and minoring in Business. I'm passoniate about new technologies and how they will impact and chnage the world. I am interested in 
-        Sports analytics, entertainmet industry, artificial intelligence, and of course watching Ohio State lose to Michigan in about anything. On the side from school, I am focused on devolping products for a digital identity verification platform, <a href="soulstamps.com">Soul</a>
-         </p></div>
-            
+        Sports analytics, entertainmet industry, artificial intelligence, and of course watching Ohio State lose to Michigan in about anything. On the side from school, I am focused on devolping products for a digital identity verification platform,<span className=" text-blue-400">Soul</span>
+        </p>
+       
         </div>
         
     )
