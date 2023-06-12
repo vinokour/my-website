@@ -6,7 +6,7 @@ export default function Navbar() {
         <p className="font-mono"> <span className="text-blue-400 px-3">01.</span>About</p>
         <p><span className="text-blue-400 px-3">02.</span>Professional Experience</p>
         <p><span className="text-blue-400 px-3">03.</span>Projects</p>
-        <button className=" rounded-none bg-slate-800 border-blue-400 border-solid border-2 px-5 ">Resume</button>
+        <button className="  animate-pulse rounded-none bg-slate-800 border-blue-400 border-solid border-2 px-5 ">Resume</button>
       </div>
     </div>
   );

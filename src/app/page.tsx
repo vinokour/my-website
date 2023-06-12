@@ -11,9 +11,8 @@ export default function Home() {
         <div className="flex bg-slate-800 flex-row justify-center w-full py-10 mr-20 mt-10 text-black ">
           <div className="bg-slate-800 flex flex-col w-[50%] mr-10 h-[50%]">
             <Picture></Picture>
-            
+         
           </div>
-          
         </div>
         <Experience></Experience>
     </div>
