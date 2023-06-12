@@ -18,7 +18,7 @@ export default function Picture() {
         watching Ohio State lose to Michigan in about anything. I am currently
         seeking 2024 SWE/Ai Summer internships. On the side from school, I am
         focused on devolping products for a digital identity verification
-        platform, Soul
+        platform, Soul.
       </p>
     </div>
   );

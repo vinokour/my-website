@@ -12,9 +12,11 @@ export default function Navbar() {
         <p>
           <span className="text-blue-400 px-3">03.</span>Projects
         </p>
+        <a href="Nicholas_Vinokour_Resume.pdf">
         <button className="animate-pulse rounded-none bg-slate-800 border-blue-400 border-solid border-2 px-5 ">
           Resume
         </button>
+        </a>
       </div>
     </div>
   );
