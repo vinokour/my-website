@@ -1,19 +1,18 @@
 export default function Experience() {
   return (
-    <div className="flex flex-col  gap-y-10 h-full font-mono text-6xl text-blue-400 justify-between  text-center items-left bg-slate-800">
-      Professional Experience
-      <p className="flex flex-row justify-center bg-slate-800 items-center gap-x-10 gap-20">
+    <div className="flex flex-col gap-y-6 h-full font-mono text-3xl md:text-4xl lg:text-5xl text-blue-400 mt-10 text-center items-center bg-slate-800 px-4 md:px-0">
+      <h1 className="text-4xl md:text-5xl lg:text-6xl">Professional Experience</h1>
+      <div className="flex flex-wrap justify-center items-center gap-x-6 mt-6">
         <a href="https://soulstamps.com/">
-        <img className="object-contain px-10 h-20" src="soul4.png"></img>
+          <img className="object-contain h-12 md:h-16" src="soul4.png" alt="Soul Stamps" />
         </a>
         <a href="https://www.honeywell.com/us/en">
-        <img src="Honeywell.png" className=" px-10 object-contain h-20" />
+          <img className="object-contain h-12 md:h-16" src="Honeywell.png" alt="Honeywell" />
         </a>
         <a href="https://www.mlb.com/">
-        <img src="mlb.png" className=" px-10 object-contain  h-20" />
+          <img className="object-contain h-12 md:h-16" src="mlb.png" alt="MLB" />
         </a>
-
-      </p>
+      </div>
     </div>
   );
 }
