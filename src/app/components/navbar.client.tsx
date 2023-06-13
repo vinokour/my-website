@@ -12,7 +12,7 @@ export default function Navbar() {
   };
 
   return (
-    <div className="flex flex-row items-center justify-between text-sm bg-slate-800 font-mono text-gray-300">
+    <div className="flex flex-row items-center justify-between text-sm bg-slate-800 mb-20 font-mono text-gray-300">
       <p className="ml-5 bg-slate-800 text-white">Nicholas Vinokour</p>
 
       {/* Dropdown trigger button - only visible on small screens */}
