@@ -14,6 +14,7 @@ export default function Home() {
           </div>
         </div>
         <Experience />
+        <div className=" bg-slate-800 w-full h-full"> Nick</div>
       </div>
     </div>
   );

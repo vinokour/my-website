@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 export default function Navbar() {
   return (
     <div className="flex flex-row text-base  bg-slate-800  w-full py-10  font-mono justify-between   text-gray-300">
