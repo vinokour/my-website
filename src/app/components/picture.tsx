@@ -9,7 +9,7 @@ export default function Picture() {
         </p>
       </div>
       
-      <p className="flex ml-20 px-20 py-5 text-sm items-center text-gray-400 mb-5 leading-loose">
+      <p className="flex ml-20 py-5    sm: w-full text-xs md:text-sm px-5 lg:text-base items-center text-gray-400 mb-5 leading-normal md:leading-loose">
         {" "}
         I am a junior at the University of Michigan, majoring in Computer Science and minoring in Business. I am passionate about new technologies and how they will impact and change the world. My interests include sports analytics, the entertainment industry, artificial intelligence, and of course, watching Ohio State lose to Michigan in just about anything. I am currently seeking 2024 SWE/AI Summer internships. Outside of school, I am focused on developing products for a digital identity verification platform, Soul.
       </p>
