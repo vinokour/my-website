@@ -13,7 +13,7 @@ export default function Navbar() {
 
   return (
     <div className="flex flex-row items-center justify-between text-sm bg-slate-800 mb-20 font-mono text-gray-300">
-      <p className="ml-5 bg-slate-800 text-white">Nicholas Vinokour</p>
+      <p className="ml-5 bg-slate-800 text-white">Making Daily Updates :)</p>
 
       {/* Dropdown trigger button - only visible on small screens */}
       <button className="md:hidden bg-blue-500 text-white px-2 py-1 rounded" onClick={handleMenuClick}>
@@ -44,7 +44,7 @@ export default function Navbar() {
       </div>
 
       {/* Navigation - only visible on medium and larger screens */}
-      <div className="hidden md:flex flex-row gap-10 text-gray-300 px-10">
+      <div className="hidden md:flex flex-row py-5 gap-10 text-gray-300 px-10">
         <p className="font-mono">
           <span className="text-blue-400 px-3">01.</span>About
         </p>
