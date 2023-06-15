@@ -4,7 +4,7 @@ export default function Projects() {
       <h1 className="ml-4 text-start text-xl md:text-3xl md:ml-11 lg:text-7xl lg:ml-72">
         Projects
       </h1>
-      <div className="text-base flex flex-col ml-10 md:ml-20 md:text-lg lg:ml-72 font-mono mt-2 text-blue-200 lg:text-3xl">
+      <div className="text-base flex flex-col ml-10 md:ml-20 md:text-lg lg:ml-72 font-mono text-blue-200 lg:text-3xl">
         Kevin: The AI Marketing Tool
         <p className="text-sm text-gray-400 md:text-base w-3/4 ml-4 mt-4">
           In a team of three, we developed an AI-driven system that has the
