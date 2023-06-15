@@ -15,7 +15,7 @@ export default function Picture() {
 
 New technologies have always intrigued me, not just for their innovative aspects but more importantly, for their potential to reshape our world. I keep a keen eye on emerging trends and advancements, and I am always eager to learn more about the latest developments in the tech industry.
 
-Being a sports enthusiast, I am particularly interested in sports analytics. The way data-driven insights are changing the game fascinates me, and I'm always up for discussing the latest trends and innovations in this field. And yes, nothing beats the thrill of watching Ohio State lose to Michigan in any aspect of life.
+Being a sports enthusiast, I am particularly interested in sports analytics. The way data-driven insights are changing the game fascinates me, and I am always up for discussing the latest trends and innovations in this field. And yes, nothing beats the thrill of watching Ohio State lose to Michigan in any aspect of life.
 
 As far as the entertainment industry is concerned, I am intrigued by the transformative potential of technology. From revolutionizing content creation and distribution to reshaping audience engagement, I believe there are still many untapped opportunities to be explored.
 
