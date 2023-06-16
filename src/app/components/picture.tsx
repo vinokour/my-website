@@ -13,7 +13,7 @@ export default function Picture() {
         </p>
       </div>
       <div className="flex flex-col items-center w-full">
-        <p className="flex py-5 lg:w-2/3 w-full font-mono text-sm md:text-base lg:text-lg items-center text-gray-400 mb-5 leading-normal lg:leading-loose">
+        <p className="flex py-5 lg:w-2/3 w-full font-mono text-sm md:text-base lg:text-lg items-center text-gray-400 mb-5 leading-normal">
           I am currently pursuing a junior at the University of Michigan,
           majoring in Computer Science with a minor in Business. New
           technologies have always intrigued me, not just for their innovative
