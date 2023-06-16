@@ -24,12 +24,10 @@ export default function Picture() {
           sports analytics. The way data-driven insights are changing the game
           fascinates me, and I am always up for discussing the latest trends and
           innovations in this field. And yes, nothing beats the thrill of
-          watching Ohio State lose to Michigan in any aspect of life. As far as
-          the entertainment industry is concerned, I am intrigued by the
-          transformative potential of technology. From revolutionizing content
-          creation and distribution to reshaping audience engagement, I believe
-          there are still many untapped opportunities to be explored. Currently,
-          I am actively seeking SWE/AI Summer internships for 2024, eager to
+          watching Ohio State lose to Michigan in any aspect of life. 
+        </p>
+        <p className="flex py-5 lg:w-2/3 w-full font-mono text-sm md:text-base lg:text-lg items-center text-gray-400 mb-5 leading-normal">
+        Currently, I am actively seeking SWE/AI Summer internships for 2024, eager to
           apply my knowledge and skills in a real-world setting. Outside of
           academics and career pursuits, I am dedicated to developing products
           for Soul, a digital identity verification platform. Working on this
@@ -37,8 +35,8 @@ export default function Picture() {
           setting, enhancing my understanding of blockchain technology and its
           applications in the realm of identity verification. I welcome any
           opportunity to connect and discuss my interests or potential
-          collaborations. I look forward to hearing from you!
-        </p>
+          collaborations. Feel free to reach out to me!
+          </p>
       </div>
     </div>
   );
