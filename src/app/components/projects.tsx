@@ -1,10 +1,10 @@
 export default function Projects() {
   return (
-    <div className="flex flex-col lg:items-center w-full gap-5 lg:mt-20 h-full py-6 font-mono text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl text-blue-400 mt-10 bg-slate-800">
+    <div className="flex flex-col lg:items-center w-full gap-5 lg:mt-20 h-full py-6 px-4 font-mono text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl text-blue-400 mt-10 bg-slate-800">
       <h1 className="text-start text-xl md:text-3xl lg:text-7xl">Projects</h1>
       <div className="text-base flex flex-col lg:items-center md:text-lg font-mono text-blue-200 lg:text-3xl">
         Kevin: The AI Marketing Tool
-        <p className="text-sm text-gray-400 md:text-base w-2/3 mt-4 text-center">
+        <p className="text-sm text-gray-400 md:text-base lg:w-2/3 mt-4 lg:text-center">
           In a team of three, we developed an AI-driven system that has the
           ability to understand user-inputted business goals and product
           information. This smart tool delves deep into the world of market

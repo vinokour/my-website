@@ -12,12 +12,12 @@ export default function Experience() {
   };
 
   return (
-    <div className="flex flex-col lg:items-center gap-5 h-full lg:mt-20 py-6 font-mono text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl text-blue-400 mt-10 bg-slate-800 px-4 md:px-0">
-      <div className="text-center md:ml-10 text-xl md:text-3xl lg:text-7xl">
+    <div className="flex flex-col lg:items-center gap-5 h-full lg:mt-20 py-6 font-mono text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl text-blue-400 mt-10 bg-slate-800 px-4">
+      <div className="lg:text-center text-xl md:text-3xl lg:text-7xl">
         Professional Experience
-        <div className="flex lg:flex-row flex-col flex-wrap gap-5 justify-center items-center lg:mt-6 w-full">
+        <div className="flex lg:flex-row flex-col flex-wrap gap-5 justify-center items-center mt-6 w-full">
           <div
-            className="flex flex-col items-center card rounded-3xl cursor-pointer bg-white p-4 md:p-3 lg:w-[29.5%] w-full h-[8rem] max-h-[8rem]"
+            className="flex flex-col items-center card rounded-3xl cursor-pointer bg-white p-4 md:p-3 lg:w-[29.5%] w-full lg:h-[8rem] lg:max-h-[8rem]"
             onClick={() => handleClick("soul")}
           >
             <img
@@ -67,7 +67,7 @@ export default function Experience() {
 
       {selected === "soul" && (
         <div className="flex flex-col justify-center items-center">
-          <p className="font-mono w-full lg:text-lg md:text-base md:ml-10 lg:w-2/3 text-gray-400 text-xs mt-6">
+          <p className="font-mono w-full lg:text-lg md:text-base lg:w-2/3 text-gray-400 text-xs mt-6">
             Since October of my Sophomore year, I have been working on Soul.
             Soul is a digital identity authenticator built on Solana, and we are
             a small startup based in Los Angeles. At Soul, I have been deeply
@@ -83,7 +83,7 @@ export default function Experience() {
 
       {selected === "honeywell" && (
         <div className="flex flex-col justify-center items-center">
-          <p className="font-mono w-full lg:text-lg md:text-base md:ml-10 lg:w-2/3 text-gray-400 text-xs mt-6">
+          <p className="font-mono w-full lg:text-lg md:text-base lg:w-2/3 text-gray-400 text-xs mt-6">
             Starting this May, I have been a Software Engineer intern at
             Honeywell in their Atlanta offices. I am working under Honeywell
             Connected Enterprises (HCE) with Logistics and Warehouse team,
@@ -95,7 +95,7 @@ export default function Experience() {
 
       {selected === "mlb" && (
         <div className="flex flex-col justify-center items-center">
-          <p className="font-mono w-full lg:text-lg md:text-base md:ml-10 lg:w-2/3 text-gray-400 text-xs mt-6">
+          <p className="font-mono w-full lg:text-lg md:text-base lg:w-2/3 text-gray-400 text-xs mt-6">
             Last Summer I was a Creative Studio intern at Major League Baseball.
             During my time at MLB, I put my coding skills to use by creating a
             web application that made the process of reviewing live game tweets
