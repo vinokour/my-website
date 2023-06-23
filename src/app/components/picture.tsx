@@ -15,7 +15,7 @@ export default function Picture() {
       <div className="flex flex-col items-center w-full">
         <p className="flex py-5 lg:w-2/3 w-full font-mono text-sm md:text-base lg:text-lg items-center text-gray-400 mb-5 leading-normal">
           I am currently a junior at the University of Michigan,
-          majoring in Computer Science with a minor in Business. New
+          majoring in Computer Science. New
           technologies have always intrigued me, not just for their innovative
           aspects but more importantly, for their potential to reshape our
           world. I keep a keen eye on emerging trends and advancements, and I am

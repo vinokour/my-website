@@ -65,7 +65,7 @@ export default function Navbar() {
         <p>
           <span className="text-blue-400 px-3">03.</span>Projects
         </p>
-        <a href="Nicholas_Vinokour_Resume.pdf">
+        <a href="Nicholas_Vinokour_Resume_2024.pdf">
           <button className="animate-pulse rounded-none bg-slate-800 border-blue-400 border-solid border-2 px-3 w-auto">
             Resume
           </button>
